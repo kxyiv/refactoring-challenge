@@ -27,3 +27,7 @@ Changes made:
         I condensed all content image declarations into a single selector element for max-height attributes.
 
         Lastly, I condensed all content h2 declarations into a single selector element for margin-bottom and font-size attributes.
+
+        Repo Link: https://github.com/kxyiv/refactoring-challenge
+
+Live Website Link: 
